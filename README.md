@@ -11,6 +11,8 @@
 ## Table of Contents
 - [Project Overview](#project_overview)
 - [Project Details](#detail)
+- [Results](#results)
+- [Licensing, Authors, and Acknowledgements](#licensing)
 
 
 ## Project Overview <a name="project_overview"></a>
@@ -70,4 +72,8 @@ Once you have your linear regression equation, you should use your linear regres
 
 Hint: We want to calculate the expected revenue from these 250 people in order to get expected profit. This means we need to multiply the probability that a person will buy our catalog as well. For example, if a customer were to buy from us, we predict this customer will buy $450 worth of products. At a 30% chance that this person will actually buy from us, we can expect revenue to be $450 x 30% = $135.
 
+## Results: <a name="results"></a>
+All the results(including graphs) are in the <a href="https://github.com/Abhishek20182/Predicting-Catalog-Demand/blob/main/Final_Predicting_Catalog_Demand.pdf">Final_Predicting_Catalog_Demand.pdf</a> File.
 
+## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+Must give credit to Udacity to providing this data. You can find the Licensing for the data and other descriptive information at Udacity Page.
